@@ -1,4 +1,4 @@
-echo "# Vivek-Pandit-Offline-Server" >> README.md
+http//# Vivek-Pandit-Offline-Server" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
